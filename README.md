@@ -1,4 +1,4 @@
-Train Booking Springboot Application
+# Train Booking Springboot Application
 
 ### Description:
 
@@ -28,7 +28,7 @@ This project is a Spring Boot application that allows to purchase ticket, modify
 
 Clone the repository:
 
-```git clone https://github.com/aniruth-raman/Train-Ticket```
+```git clone https://github.com/Aniruth-raman/TrainBooking```
 
 Navigate to the project directory: 
 
